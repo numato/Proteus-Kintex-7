@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="Helloworld_system-bitFile" value="${project_loc:Helloworld}/_ide/bitstream/sample_design_wrapper.bit"/>
+	<item key="Helloworld_system-bmmFile" value="${project_loc:Helloworld}/_ide/bitstream/sample_design_wrapper.mmi"/>
+	<item key="Helloworld_system-target" value="Local"/>
+	<item key="Helloworld_system-device" value="Auto Detect"/>
+	<item key="Helloworld_system-partial_bit" value="false"/>
+	<item key="Helloworld_system-skip_rev_check" value="false"/>
+	<item key="programfpga.sdxproject" value="Helloworld_system"/>
+	<item key="Helloworld_system-microblaze_0-initElf" value="bootloop"/>
+	<item key="devices_info_Local" value="{&quot;cables&quot;:[{&quot;name&quot;:&quot;Platform Cable USB 00000000000000&quot;,&quot;indexContextMap&quot;:{&quot;2&quot;:&quot;jsn-DLC9LP-00000000000000-0364c093-0&quot;}}]}"/>
+</section>

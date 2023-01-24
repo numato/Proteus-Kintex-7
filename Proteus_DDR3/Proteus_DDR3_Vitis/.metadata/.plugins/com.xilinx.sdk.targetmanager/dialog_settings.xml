@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="Memory_test_system-bitFile" value="${project_loc:Memory_test}/_ide/bitstream/sample_wrapper.bit"/>
+	<item key="Memory_test_system-bmmFile" value="${project_loc:Memory_test}/_ide/bitstream/sample_wrapper.mmi"/>
+	<item key="Memory_test_system-target" value="Local"/>
+	<item key="Memory_test_system-device" value="Auto Detect"/>
+	<item key="Memory_test_system-partial_bit" value="false"/>
+	<item key="Memory_test_system-skip_rev_check" value="false"/>
+	<item key="programfpga.sdxproject" value="Memory_test_system"/>
+	<item key="Memory_test_system-microblaze_0-initElf" value="bootloop"/>
+	<item key="devices_info_Local" value="{&quot;cables&quot;:[{&quot;name&quot;:&quot;Platform Cable USB 00000000000000&quot;,&quot;indexContextMap&quot;:{&quot;2&quot;:&quot;jsn-DLC9LP-00000000000000-0364c093-0&quot;}}]}"/>
+</section>
