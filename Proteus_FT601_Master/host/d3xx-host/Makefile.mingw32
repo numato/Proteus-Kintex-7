@@ -1,0 +1,17 @@
+.DEFAULT_GOAL := all
+
+help:
+	@echo Default target (all): make -f Makefile.mingw32
+	@echo Build FT600 245 Synchronous FIFO Loopback Test Program: make -f Makefile.mingw32 build
+
+all: build
+	@echo Build complete...
+
+build:
+	g++ -I FTD3XXLibrary -static-libgcc -static-libstdc++ -o "ft600-245-sync-fifo-loopback.exe" main.cpp  FTD3XXLibrary/Win32/FTD3XX.lib 
+
+
+
+
+
+

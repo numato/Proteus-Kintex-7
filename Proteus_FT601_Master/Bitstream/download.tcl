@@ -1,0 +1,2 @@
+connect
+fpga ft601_proteus_k7_160t.bit

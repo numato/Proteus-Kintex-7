@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="Helloworld" location="G:/Sample_codes/proteus/Proteus_Helloworld/Proteus_Helloworld_Vitis/Helloworld" platform="G:/Sample_codes/proteus/Proteus_Helloworld/Proteus_Helloworld_Vitis/sample_design_wrapper/export/sample_design_wrapper/sample_design_wrapper.xpfm" platformUID="xilinx:proteus::0.0(custom)" systemProject="Helloworld_system" sysConfig="sample_design_wrapper" runtime="cpp" cpu="standalone_microblaze_0" cpuInstance="microblaze_0" os="standalone" mssSignature="3eb4751e2e9db6f5370bdcb7b392b6dc">
+  <configuration name="Debug" id="xilinx.gnu.mb.exe.debug.1877757799">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.mb.exe.release.310089319" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="hello_world"/>
+</sdkproject:SdkProject>
